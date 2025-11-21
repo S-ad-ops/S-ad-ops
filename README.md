@@ -1,4 +1,4 @@
--  Hey Myself @S-ad-ops aka Soham Pawar
+-  Hey Myself Soham Pawar
 -  I’m interested in Software field
 -  I’m currently learning web development
 -  I’m looking to collaborate on many future plans 
