@@ -1,10 +1,6 @@
--  Hey Myself Soham Pawar
--  I’m interested in Software field
--  I’m currently learning web development
--  I’m looking to collaborate on many future plans 
--  How to reach me noting that can help you so don't
--  Pronouns: ...
--  Fun fact: I am new to coding 
+- 3rd year Btech student pursuing my degree in AI/ML
+- ML enthusiast
+- Implementing and learning more about my AI/ML skills 
 
 <!---
 S-ad-ops/S-ad-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
